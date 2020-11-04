@@ -2,7 +2,7 @@ comparing-sentiment
 
 ## Using {targets}
 
-This project uses {targets} for workflow management. To install {targets}:
+This project uses [{targets}](https://github.com/wlandau/targets) for workflow management. To install {targets}:
 
 ```{r}
 library(remotes)
