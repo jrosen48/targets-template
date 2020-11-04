@@ -18,3 +18,9 @@ To run the project pipeline, enter and run the following function:
 - Raw data: `data-raw`
 - Data that can be shared: `data`
 - Functions: `r/functions.R`
+
+## .gitignore
+
+The `data-raw` directory is ignored by default. 
+
+If you do not have private data, then this is not necessary, but, otherwise, you may wish to ignore the `_targets` directory: `_targets/`
