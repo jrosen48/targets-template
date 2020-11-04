@@ -1,6 +1,6 @@
 ## targets-template
 
-This is a basic temltes for a [{targets}](https://github.com/wlandau/targets) project.
+This is a basic template for a [{targets}](https://github.com/wlandau/targets) project.
 
 ## Using {targets}
 
