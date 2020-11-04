@@ -1,8 +1,10 @@
-comparing-sentiment
+## targets-template
+
+This is a basic temltes for a [{targets}](https://github.com/wlandau/targets) project.
 
 ## Using {targets}
 
-This project uses [{targets}](https://github.com/wlandau/targets) for workflow management. To install {targets}:
+To install {targets}:
 
 ```{r}
 library(remotes)
